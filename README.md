@@ -1,0 +1,2 @@
+# practicna
+my first repo
